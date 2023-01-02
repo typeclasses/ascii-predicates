@@ -1,7 +1,7 @@
 cabal-version: 3.0
 
 name: ascii-predicates
-version: 1.0.1.1
+version: 1.0.1.2
 synopsis: Various categorizations of ASCII characters
 category: Data, Text
 
@@ -18,7 +18,7 @@ maintainer: Chris Martin, Julie Moronuki
 homepage: https://github.com/typeclasses/ascii-predicates
 bug-reports: https://github.com/typeclasses/ascii-predicates/issues
 
-extra-doc-files: *.md
+extra-source-files: *.md
 
 source-repository head
     type: git
