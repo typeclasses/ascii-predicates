@@ -57,4 +57,4 @@ test-suite test-ascii-predicates
 
     build-depends:
       , ascii-predicates
-      , hedgehog ^>= 1.1.2 || ^>= 1.2
+      , hedgehog >= 1.1.2 && < 1.5
